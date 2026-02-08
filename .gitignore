@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Bambu Studio temp/cache
+*.bak
+*.tmp
+*.autosave
+
+# Large preview renders
+*.png
+*.jpg
+
+# Logs
+*.log
+
